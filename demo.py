@@ -1,8 +1,3 @@
-# Disclaimer
-# This template is meant for educational purpose only.
-# if you submit this chances are you will get
-# an Academic offence...
-
 import socket
 import os
 
